@@ -1,0 +1,8 @@
+{
+  "base_url": "https://api.deepseek.com/v1",
+  "api_key": "",
+  "model": "deepseek-chat",
+  "models": ["deepseek-chat", "deepseek-reasoner"],
+  "temperature": 0.7,
+  "system_prompt": "你是一个乐于助人的 AI 助手，回答准确、简洁，必要时给出可执行的步骤。"
+}
